@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # adaptive_quiz
 
 A new Flutter project.
